@@ -1,0 +1,13 @@
+package com.eventpublish;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class EventpublishAppApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
